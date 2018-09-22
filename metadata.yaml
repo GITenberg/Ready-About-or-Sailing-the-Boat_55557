@@ -1,5 +1,8 @@
 _repo: Ready-About-or-Sailing-the-Boat_55557
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55557-h/images/cover.jpg
 creator:
   author:
     agent_name: Optic, Oliver
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/260
     wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55557#Ready-About-or-Sailing-the-Boat
 gutenberg_issued: '2017-09-16'
 gutenberg_type: Text
 identifiers:
